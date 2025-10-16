@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Bug report 🪲
-    url: https://community.shopify.dev/c/dev-platform/32
+    url: https://community.shopify.dev/c/shopify-cli-libraries/14
     about: File a bug report
   - name: Feature request ✨
     url: https://community.shopify.dev/c/dev-platform/32
